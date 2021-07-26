@@ -64,6 +64,21 @@
     width: 100%
 }
 
+.brand img {
+    width: 100%;
+}
+
+.wave {
+    width: 100%;
+}
+
+.icon {
+    color: white !important;
+}
+
+.link a {
+    color: white !important;
+}
 
 
 
